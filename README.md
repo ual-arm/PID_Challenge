@@ -26,7 +26,7 @@ There are a total of 10 windows, disclosed here by order of appearance in the ga
 
 Each .fig is associated with its respective code in .m format. The buttons, graphics, and calculations are all performed in callback functions in the .m file.
 
-Obs: The game resolution is not optimized for all monitors. It was designed to be displayed on monitors with a resolution of 1080p, 21''. The Matlab program should be executed on this monitor as the main desktop environment. Please make sure the game is executed in these conditions. The programmer can edit the game windows using the GUIDE interface.
+Obs: The game resolution is not optimized for all monitors. It was designed to be displayed on monitors with a 1080p, 21'' resolution. The Matlab program should be executed as the main desktop environment on this monitor. Please make sure the game is executed in these conditions. The programmer can edit the game windows using the GUIDE interface.
 
 ## Game instructions
 
@@ -53,4 +53,9 @@ Sounds easy, right? But the challenge is:  you know NOTHING about the process.
 
 This tool is available for users to edit and use without commercial intentions. Please cite this repository as detailed:
 
+# Contact
 
+Please, for any doubt or suggestions, contact:
+
+ilp428@inlumine.ual.es
+joguzman@ual.es
