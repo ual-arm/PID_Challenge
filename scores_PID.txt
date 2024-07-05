@@ -1,0 +1,2 @@
+Name;Email;Score1;Score2;Score3;Total;Tries
+Igor;igor@ual.es;14.7;281.72;119.06;138.49;1
