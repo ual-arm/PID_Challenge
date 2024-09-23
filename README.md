@@ -43,7 +43,7 @@ Sounds easy, right? But the challenge is:  you know NOTHING about the process.
 - Modifying a parameter will automatically simulate the system in closed-loop with your designed controller.
 - You can choose the parameter by moving the slide bar, clicking the arrows, or typing directly in the text box.
 - The controller will be tested to track a unitary step change in the reference and to reject  a unitary step in the disturbance.
-- Your performance will be evaluated by the sum of the total error plus the control effort.
+- The sum of the total error plus the control effort will evaluate your performance.
 - The best and the current indices will be displayed during the experiment.
 - You can always return to the starting parameters by clicking the Reset button.
 - After 45 seconds, you move to the next level.
@@ -53,7 +53,7 @@ Sounds easy, right? But the challenge is:  you know NOTHING about the process.
 
 This tool is available for users to edit and use without commercial intentions. Please cite this repository as detailed:
 
-Pataro, I. M. L., Guzmán, J. L., Gil, J. D., Berenguel, M. PID Tuning Challenge, 2024, University of Almería (Spain), Available in: https://github.com/ual-arm/PID_Challenge
+Pataro, I. M. L., Guzmán, J. L., Gil, J. D., Berenguel, M., González-Hernández, J., Cañadas-Aránega, F., Hoyo, Á., Otálora, P., PID Tuning Challenge, 2024, University of Almería (Spain), Available in: https://github.com/ual-arm/PID_Challenge
 
 # Contact
 
