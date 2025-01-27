@@ -59,5 +59,5 @@ Pataro, I. M. L., Guzmán, J. L., Gil, J. D., Berenguel, M., González-Hernánde
 
 Please, for any doubt or suggestions, contact:
 
-ilp428@inlumine.ual.es
+igorpataro@ual.es
 joguzman@ual.es
