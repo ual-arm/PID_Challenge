@@ -83,7 +83,7 @@ Sounds easy, right? But the challenge is:  you know NOTHING about the process.
 
 This tool is available for users to edit and use without commercial intentions. Please cite this repository as detailed:
 
-Pataro, I. M. L., Guzmán, J. L., Gil, J. D., Berenguel, M., González-Hernández, J., Cañadas-Aránega, F., Hoyo, Á., Otálora, P., PID Tuning Challenge, 2024, University of Almería (Spain), Available in: https://github.com/ual-arm/PID_Challenge
+Pataro, I. M. L., Guzmán, J. L., Gil, J. D., Berenguel, M., González-Hernández, J., Cañadas-Aránega, F., Hoyo, Á., Otálora, P., PID Tuning Challenge, 2024, University of Almería (Spain), Available in: https://github.com/ual-arm/Gamification_In_Control_Engineering
 
 # Contact
 
